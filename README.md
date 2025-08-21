@@ -19,12 +19,13 @@
 ### 🔹 Databases
 - Oracle Database (PL/SQL, APEX, Forms)  
 - SQL Server  
-- MySQL  
 
 ### 🔹 Development
 - Oracle APEX (enterprise apps, booking systems, help desk apps)  
 - C# (.NET, libraries, API integration)  
-- Python (automation, data analysis)  
+- Python (automation, data analysis)
+- Oracle Forms & Reports 12c
+- Oracle Weblogic
 
 ### 🔹 Security & Networking
 - Fortinet Firewalls (FortiGate, FortiMail, HA, SD-WAN)  
@@ -35,7 +36,7 @@
 ### 🔹 Infrastructure
 - Windows Server / Active Directory  
 - Linux (Ubuntu Server, Docker containers)  
-- Virtualization (VMware, Proxmox, Oracle VM)  
+- Virtualization (VMware, Oracle VM)  
 
 ---
 

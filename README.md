@@ -21,7 +21,7 @@
 ### 🔹 Development
 - Oracle APEX (enterprise apps, booking systems, help desk apps)  
 - C# (.NET, libraries, API integration)  
-- Python (automation, data analysis)
+- Python — automation (currently expanding)
 - Oracle Forms & Reports 12c
 - Oracle Weblogic
 

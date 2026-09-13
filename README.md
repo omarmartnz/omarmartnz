@@ -182,13 +182,19 @@ All examples presented here are generalized and exclude confidential company inf
 - IT operations automation
 
 ---
-
 ## 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/omar-martinez-02aaab195/)
-- [Professional Instagram](https://www.instagram.com/techietechrd/)
-- [Email](mailto:omaremartnz@gmail.com)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/omar-martinez-02aaab195/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Martínez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/techietechrd/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-TechieTechRD-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:omaremartnz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 ---
 
 > Technology must remain reliable, secure and aligned with the needs of the business.

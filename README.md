@@ -185,7 +185,7 @@ All examples presented here are generalized and exclude confidential company inf
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/omar-martinez-02aaab195/" target="_blank">
+  <a href="https://www.linkedin.com/in/omarmartinez-it/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Omar%20Martínez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/techietechrd/" target="_blank">
